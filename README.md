@@ -23,7 +23,7 @@ Below is the filtered data by filtering city = willow,
 
 ![UFOs webpage by city](static/images/UFOsFilterbycity.png?raw=true)
 
-Below is another example of UFO sighting filtered by shape, shape = trianle,
+Below is another example of UFO sighting filtered by shape, shape = triangle,
 
 ![UFOs webpage by shape](static/images/UFOsfilterbyshape.png?raw=true)
 
@@ -33,7 +33,7 @@ Below is another example of UFO sighting filtered by shape, shape = trianle,
 Though the webpage serves the users to filter the data with multiple filters pretty well, it has some drawbacks in the filter text supplied for each filter as,
 1. It is case sensitive eg, if we enter the state as "TX" instead of "tx", it gives no records and filters to browse the data is not enough.
 
-### Additional development recommendations for further development
+### Additional recommendations for further development
 
 1. Filters can be implemented with the unique values of the columns preloaded as a dropdown list. This will add up to ease of use.
 
